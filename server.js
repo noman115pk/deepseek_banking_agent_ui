@@ -3,6 +3,8 @@ const express = require('express');
 const fs = require('fs');
 const axios = require('axios');
 const bodyParser = require('body-parser');
+// Load environment variables from .env if present
+require('dotenv').config();
 const app = express();
 const PORT = 3000;
 
@@ -20,8 +22,8 @@ const prompts = {
   fallback_prompt: "I'm sorry, but I can only assist with topics related to Islamic Banking and Finance. Please ask a question within that domain."
 };
 
-const API_KEY = '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';
-const API_URL = 'https://openrouter.ai/api/v1/chat/completions';
+const API_KEY = process.env.API_KEY;
+const API_URL = process.env.API_URL || 'https://openrouter.ai/api/v1/chat/completions';
 
 const linkMapping = JSON.parse(fs.readFileSync('config/link_mapping.json'));
 const keywords = Object.keys(linkMapping);

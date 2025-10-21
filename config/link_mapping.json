@@ -1,0 +1,141 @@
+{
+  "loan": [
+    {
+      "title": "Personal Finance",
+      "url": "https://www.adib.ae/en/personal/finance/personal-finance",
+      "deepLink": "https://adibsit.page.link/IPO"
+    },
+    {
+      "title": "Advance Salary",
+      "url": "https://www.adib.ae/en/personal/finance/yusr-salary-advance-finance",
+      "deepLink": "https://adibsit.page.link/IPO"
+    }
+  ],
+  "finance": [
+    {
+      "title": "Personal Finance",
+      "url": "https://www.adib.ae/en/personal/finance/personal-finance",
+      "deepLink": "https://adibsit.page.link/IPO"
+    },
+    {
+      "title": "Advance Salary",
+      "url": "https://www.adib.ae/en/personal/finance/yusr-salary-advance-finance",
+      "deepLink": "https://adibsit.page.link/IPO"
+    }
+  ],
+  "investment": [
+    {
+      "title": "Wealth Management",
+      "url": "https://www.adib.ae/en/personal/wealth-management/investment-solutions",
+      "deepLink": "https://adibsit.page.link/IPO"
+    },
+    {
+      "title": "Portfolio Management",
+      "url": "https://www.adib.ae/en/personal/wealth-management/how-to-invest",
+      "deepLink": "https://adibsit.page.link/IPO"
+    }
+  ],
+  "credit": [
+    {
+      "title": "Covered Cards",
+      "url": "https://www.adib.ae/en/personal/cards/exceed-cards",
+      "deepLink": "https://adibsit.page.link/IPO"
+    },
+    {
+      "title": "Cashback Covered Card",
+      "url": "https://www.adib.ae/en/personal/cards/cashback-visa-card",
+      "deepLink": "https://adibsit.page.link/IPO"
+    }
+  ],
+  "card": [
+    {
+      "title": "Covered Cards",
+      "url": "https://www.adib.ae/en/personal/cards/exceed-cards",
+      "deepLink": "https://adibsit.page.link/IPO"
+    },
+    {
+      "title": "Cashback Covered Card",
+      "url": "https://www.adib.ae/en/personal/cards/cashback-visa-card",
+      "deepLink": "https://adibsit.page.link/IPO"
+    }
+  ],
+  "retirement": [
+    {
+      "title": "Retirement Plans",
+      "url": "https://www.adib.ae/en/calculators/retirement-planner",
+      "deepLink": "https://adibsit.page.link/IPO"
+    },
+    {
+      "title": "Pension Advice",
+      "url": "https://www.adib.ae/en/personal/accounts/investment-deposit-account",
+      "deepLink": "https://adibsit.page.link/IPO"
+    }
+  ],
+  "transfer": [
+    {
+      "title": "Transfers and Remittances",
+      "url": "https://www.adib.ae/en/personal/transfers-and-remittances",
+      "deepLink": "https://adibsit.page.link/IPO"
+    },
+    {
+      "title": "Pay your Bills",
+      "url": "https://www.adib.ae/en/personal/transfers-and-remittances/payments",
+      "deepLink": "https://adibsit.page.link/IPO"
+    }
+  ],"pay": [
+    {
+      "title": "Transfers and Remittances",
+      "url": "https://www.adib.ae/en/personal/transfers-and-remittances",
+      "deepLink": "https://adibsit.page.link/IPO"
+    },
+    {
+      "title": "Pay your Bills",
+      "url": "https://www.adib.ae/en/personal/transfers-and-remittances/payments",
+      "deepLink": "https://adibsit.page.link/IPO"
+    }
+  ],"bill": [
+    {
+      "title": "Transfers and Remittances",
+      "url": "https://www.adib.ae/en/personal/transfers-and-remittances",
+      "deepLink": "https://adibsit.page.link/IPO"
+    },
+    {
+      "title": "Pay your Bills",
+      "url": "https://www.adib.ae/en/personal/transfers-and-remittances/payments",
+      "deepLink": "https://adibsit.page.link/IPO"
+    }
+  ],"sharia": [
+    {
+      "title": "Sharia Governance",
+      "url": "https://www.adib.ae/en/about-us/sharia-governance",
+      "deepLink": "https://adibsit.page.link/IPO"
+    },
+    {
+      "title": "Sharia Compliance",
+      "url": "https://www.adib.ae/en/about-us/sharia-compliance",
+      "deepLink": "https://adibsit.page.link/IPO"
+    }
+  ],"banking": [
+    {
+      "title": "Personal Banking",
+      "url": "https://www.adib.ae/en/personal/banking",
+      "deepLink": "https://adibsit.page.link/IPO"
+    },
+    {
+      "title": "Accounts",
+      "url": "https://www.adib.ae/en/personal/accounts",
+      "deepLink": "https://adibsit.page.link/IPO"
+    }
+  ],"accounts": [
+    {
+      "title": "Personal Banking",
+      "url": "https://www.adib.ae/en/personal/banking",
+      "deepLink": "https://adibsit.page.link/IPO"
+    },
+    {
+      "title": "Accounts",
+      "url": "https://www.adib.ae/en/personal/accounts",
+      "deepLink": "https://adibsit.page.link/IPO"
+    }
+  ],"islamic": []
+}
